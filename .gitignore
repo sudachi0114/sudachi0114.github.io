@@ -1,0 +1,6 @@
+
+# macOS systemfile
+.DS_Store
+
+# emacs backup-file
+*~
